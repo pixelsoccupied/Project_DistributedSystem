@@ -1,0 +1,84 @@
+Oct 07, 2017 7:32:32 PM Logs.Log generateLogFileClient
+INFO: Deposit successful 
+Oct 07, 2017 7:32:32 PM Logs.Log generateLogFileClient
+INFO: Deposit failed 
+Oct 07, 2017 7:33:15 PM Logs.Log generateLogFileClient
+INFO: Balance check 
+Oct 08, 2017 6:16:28 PM Logs.Log generateLogFileClient
+INFO: Deposit successful 
+Oct 10, 2017 4:50:27 PM Logs.Log generateLogFileClient
+INFO: Withdraw success 
+Oct 10, 2017 4:50:48 PM Logs.Log generateLogFileClient
+INFO: Withdraw success 
+Oct 10, 2017 5:48:59 PM Logs.Log generateLogFileClient
+INFO: Account creation failed 
+Oct 10, 2017 5:49:10 PM Logs.Log generateLogFileClient
+INFO: Account creation failed 
+Oct 10, 2017 5:56:17 PM Logs.Log generateLogFileClient
+INFO: Get account count 
+Oct 10, 2017 5:56:52 PM Logs.Log generateLogFileClient
+INFO: Account created 
+Oct 10, 2017 5:57:09 PM Logs.Log generateLogFileClient
+INFO: Account created 
+Oct 10, 2017 5:57:13 PM Logs.Log generateLogFileClient
+INFO: Get account count 
+Oct 27, 2017 9:20:03 PM Log.Log generateLogFileClient
+INFO: Balance check 
+Oct 27, 2017 9:20:16 PM Log.Log generateLogFileClient
+INFO: Deposit successful 
+Oct 27, 2017 9:20:22 PM Log.Log generateLogFileClient
+INFO: Get account count 
+Oct 27, 2017 9:20:54 PM Log.Log generateLogFileClient
+INFO: Deposit successful 
+Oct 27, 2017 9:21:40 PM Log.Log generateLogFileClient
+INFO: Get account count 
+Oct 27, 2017 9:24:01 PM Log.Log generateLogFileClient
+INFO: Balance check 
+Oct 27, 2017 9:24:17 PM Log.Log generateLogFileClient
+INFO: Transfer balance to QCC1000 from BCC1000 failed
+Oct 27, 2017 9:25:35 PM Log.Log generateLogFileClient
+INFO: Transfer balance to BCC1000 from QCC1000
+Oct 27, 2017 9:27:24 PM Log.Log generateLogFileClient
+INFO: Transfer balance to MBC1000 from QCC1000 failed
+Oct 27, 2017 9:27:53 PM Log.Log generateLogFileClient
+INFO: Balance check 
+Oct 27, 2017 9:28:16 PM Log.Log generateLogFileClient
+INFO: Transfer balance to NBC1000 from QCC1000
+Oct 27, 2017 9:29:03 PM Log.Log generateLogFileClient
+INFO: Transfer balance to MBC1000 from QCC1000 failed
+Oct 27, 2017 9:31:23 PM Log.Log generateLogFileClient
+INFO: Get account count 
+Oct 27, 2017 9:46:20 PM Log.Log generateLogFileClient
+INFO: Balance check 
+Oct 27, 2017 9:47:02 PM Log.Log generateLogFileClient
+INFO: Deposit successful 
+Oct 27, 2017 9:47:44 PM Log.Log generateLogFileClient
+INFO: Transfer balance to BCC1000 from QCC1000
+Oct 27, 2017 9:47:55 PM Log.Log generateLogFileClient
+INFO: Balance check 
+Oct 27, 2017 9:48:48 PM Log.Log generateLogFileClient
+INFO: Transfer balance to MBC1000 from QCC1000 failed
+Oct 29, 2017 3:17:24 PM Log.Log generateLogFileClient
+INFO: Deposit successful 
+Oct 29, 2017 3:18:02 PM Log.Log generateLogFileClient
+INFO: Transfer balance to QCC1000 from BCC1000 failed
+Oct 29, 2017 3:18:30 PM Log.Log generateLogFileClient
+INFO: Transfer balance to BCC1000 from QCC1000
+Oct 29, 2017 8:55:23 PM Log.Log generateLogFileClient
+INFO: Deposit successful 
+Oct 29, 2017 8:55:37 PM Log.Log generateLogFileClient
+INFO: Transfer balance to BCC1000 from QCC1000
+Nov 02, 2017 1:08:36 PM Log.Log generateLogFileClient
+INFO: Deposit successful 
+Nov 02, 2017 2:20:37 PM Log.Log generateLogFileClient
+INFO: Account created 
+Nov 02, 2017 2:20:58 PM Log.Log generateLogFileClient
+INFO: Get account count 
+Nov 02, 2017 2:21:32 PM Log.Log generateLogFileClient
+INFO: Transfer balance to BCC1000 from QCC1003 failed
+Nov 02, 2017 2:21:50 PM Log.Log generateLogFileClient
+INFO: Deposit successful 
+Nov 02, 2017 2:22:11 PM Log.Log generateLogFileClient
+INFO: Transfer balance to BCC1010 from QCC1003 failed
+Nov 02, 2017 2:22:29 PM Log.Log generateLogFileClient
+INFO: Get account count 

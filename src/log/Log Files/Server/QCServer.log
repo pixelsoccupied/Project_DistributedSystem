@@ -1,0 +1,1322 @@
+Oct 07, 2017 5:52:25 PM Logs.Log generateLogFile
+INFO: deposit
+Oct 07, 2017 6:01:26 PM Logs.Log generateLogFileServer
+INFO: Deposit made for BCC1000
+Oct 07, 2017 6:22:05 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 07, 2017 6:22:05 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 07, 2017 6:22:05 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 07, 2017 6:22:05 PM Logs.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 07, 2017 6:22:05 PM Logs.Log generateLogFileServer
+INFO: Account created BCC1000
+Oct 07, 2017 6:22:05 PM Logs.Log generateLogFileServer
+INFO: Account created BCC1001
+Oct 07, 2017 6:22:05 PM Logs.Log generateLogFileServer
+INFO: Account created BCC1002
+Oct 07, 2017 6:22:05 PM Logs.Log generateLogFileServer
+INFO: Account created BCC1003
+Oct 07, 2017 6:48:58 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 07, 2017 6:48:58 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 07, 2017 6:48:58 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 07, 2017 6:48:58 PM Logs.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 07, 2017 6:52:25 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 07, 2017 6:52:25 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 07, 2017 6:52:25 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 07, 2017 6:52:25 PM Logs.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 07, 2017 6:52:54 PM Logs.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 07, 2017 6:52:54 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 07, 2017 6:53:07 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 07, 2017 7:32:03 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 07, 2017 7:32:03 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 07, 2017 7:32:03 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 07, 2017 7:32:03 PM Logs.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 07, 2017 7:32:32 PM Logs.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 07, 2017 7:32:32 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 07, 2017 7:33:15 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 07, 2017 7:33:53 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 07, 2017 7:34:17 PM Logs.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 07, 2017 7:34:17 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 08, 2017 11:47:16 AM Logs.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 08, 2017 11:47:16 AM Logs.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 08, 2017 11:47:16 AM Logs.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 08, 2017 11:47:16 AM Logs.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 08, 2017 11:48:27 AM Logs.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 08, 2017 11:48:27 AM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 08, 2017 11:48:43 AM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 08, 2017 6:15:32 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 08, 2017 6:15:32 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 08, 2017 6:15:32 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 08, 2017 6:15:32 PM Logs.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 08, 2017 6:16:28 PM Logs.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 08, 2017 6:16:28 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 08, 2017 6:17:00 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 08, 2017 11:21:52 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 08, 2017 11:21:52 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 08, 2017 11:21:53 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 08, 2017 11:21:53 PM Logs.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 08, 2017 11:22:17 PM Logs.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 08, 2017 11:22:17 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 08, 2017 11:22:26 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 10, 2017 4:02:31 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 10, 2017 4:02:31 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 10, 2017 4:02:31 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 10, 2017 4:02:31 PM Logs.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 10, 2017 4:03:28 PM Logs.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 10, 2017 4:03:28 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 10, 2017 4:03:41 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 10, 2017 4:09:29 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1003
+Oct 10, 2017 4:09:50 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1004
+Oct 10, 2017 4:10:02 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 10, 2017 4:50:07 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1005
+Oct 10, 2017 4:50:07 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1006
+Oct 10, 2017 4:50:07 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1007
+Oct 10, 2017 4:50:07 PM Logs.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 10, 2017 4:50:27 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 10, 2017 4:50:27 PM Logs.Log generateLogFileServer
+INFO: Withdraw  QCC1000
+Oct 10, 2017 4:50:27 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 10, 2017 4:50:48 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1003
+Oct 10, 2017 4:50:48 PM Logs.Log generateLogFileServer
+INFO: Withdraw  QCC1003
+Oct 10, 2017 4:50:48 PM Logs.Log generateLogFileServer
+INFO: Get balance for QCC1003
+Oct 10, 2017 5:48:09 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 10, 2017 5:48:09 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 10, 2017 5:48:09 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 10, 2017 5:48:09 PM Logs.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 10, 2017 5:56:52 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 10, 2017 5:57:09 PM Logs.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 26, 2017 5:59:48 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 26, 2017 5:59:48 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 26, 2017 5:59:48 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 26, 2017 5:59:48 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 26, 2017 6:04:52 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 26, 2017 6:04:52 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 26, 2017 6:04:52 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 26, 2017 6:04:52 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 26, 2017 6:12:36 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 26, 2017 6:12:36 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 26, 2017 6:12:36 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 26, 2017 6:12:36 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 26, 2017 6:13:59 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 26, 2017 6:13:59 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 26, 2017 6:13:59 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 26, 2017 6:13:59 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 26, 2017 6:16:13 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 26, 2017 6:16:13 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 26, 2017 6:16:13 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 26, 2017 6:16:13 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 26, 2017 6:20:25 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 26, 2017 6:20:25 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 26, 2017 6:20:25 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 26, 2017 6:20:25 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 2:55:04 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 27, 2017 2:55:04 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 27, 2017 2:55:04 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 27, 2017 2:55:04 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 3:23:19 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 27, 2017 3:23:19 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 27, 2017 3:23:19 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 27, 2017 3:23:19 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 3:23:41 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 3:23:55 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 3:23:55 PM Log.Log generateLogFileServer
+INFO: Withdraw  QCC1000
+Oct 27, 2017 3:23:55 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 3:24:35 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 3:24:35 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 3:26:56 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 3:26:56 PM Log.Log generateLogFileServer
+INFO: Withdraw  QCC1000
+Oct 27, 2017 3:26:56 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 3:30:04 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 3:30:44 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 3:31:56 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 3:31:56 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 4:05:17 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 27, 2017 4:05:17 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 27, 2017 4:05:17 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 27, 2017 4:05:17 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 4:26:40 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 27, 2017 4:26:40 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 27, 2017 4:26:40 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 27, 2017 4:26:40 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 4:27:15 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 4:27:36 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 6:26:13 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 27, 2017 6:26:13 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 27, 2017 6:26:13 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 27, 2017 6:26:13 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 6:26:42 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 7:38:46 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 27, 2017 7:38:46 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 27, 2017 7:38:46 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 27, 2017 7:38:46 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 7:38:46 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 7:39:35 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 7:39:35 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 7:41:52 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 7:43:20 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 7:43:20 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:32:18 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:32:50 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 8:32:50 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:33:29 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:33:29 PM Log.Log generateLogFileServer
+INFO: Manager Autocalled transfer money for QCC1000to BCC1000
+Oct 27, 2017 8:35:29 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:35:29 PM Log.Log generateLogFileServer
+INFO: Manager Autocalled transfer money for QCC1000to MBC1000
+Oct 27, 2017 8:36:13 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:36:21 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:36:21 PM Log.Log generateLogFileServer
+INFO: Manager Autocalled transfer money for QCC1000to MBC1000
+Oct 27, 2017 8:36:36 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:36:36 PM Log.Log generateLogFileServer
+INFO: Manager Autocalled transfer money for QCC1000to NBC1000
+Oct 27, 2017 8:46:46 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 27, 2017 8:46:46 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 27, 2017 8:46:46 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 27, 2017 8:46:46 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 8:46:46 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 8:47:04 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 8:47:04 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:47:09 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:47:24 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:47:24 PM Log.Log generateLogFileServer
+INFO: Manager Autocalled transfer money for QCC1000to BCC1000
+Oct 27, 2017 8:47:42 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 8:47:42 PM Log.Log generateLogFileServer
+INFO: Manager Autocalled transfer money for QCC1000to MBC1000
+Oct 27, 2017 8:54:33 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 27, 2017 8:54:33 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 27, 2017 8:54:33 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 27, 2017 8:54:33 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 8:54:33 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 9:19:39 PM Log.Log generateLogFileServer
+INFO: Account created QCC1003
+Oct 27, 2017 9:19:39 PM Log.Log generateLogFileServer
+INFO: Account created QCC1004
+Oct 27, 2017 9:19:39 PM Log.Log generateLogFileServer
+INFO: Account created QCC1005
+Oct 27, 2017 9:19:39 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 9:19:39 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 9:20:03 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:20:16 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 9:20:16 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:20:22 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 9:20:54 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 9:20:54 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:21:40 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 9:23:47 PM Log.Log generateLogFileServer
+INFO: Account created QCC1006
+Oct 27, 2017 9:23:47 PM Log.Log generateLogFileServer
+INFO: Account created QCC1007
+Oct 27, 2017 9:23:47 PM Log.Log generateLogFileServer
+INFO: Account created QCC1008
+Oct 27, 2017 9:23:47 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 9:23:47 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 9:24:01 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:25:14 PM Log.Log generateLogFileServer
+INFO: Account created QCC1009
+Oct 27, 2017 9:25:14 PM Log.Log generateLogFileServer
+INFO: Account created QCC1010
+Oct 27, 2017 9:25:14 PM Log.Log generateLogFileServer
+INFO: Account created QCC1011
+Oct 27, 2017 9:25:14 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 9:25:14 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 9:25:35 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:25:35 PM Log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to BCC1000
+Oct 27, 2017 9:27:01 PM Log.Log generateLogFileServer
+INFO: Account created QCC1012
+Oct 27, 2017 9:27:01 PM Log.Log generateLogFileServer
+INFO: Account created QCC1013
+Oct 27, 2017 9:27:01 PM Log.Log generateLogFileServer
+INFO: Account created QCC1014
+Oct 27, 2017 9:27:01 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 9:27:01 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 9:27:24 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:27:24 PM Log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to MBC1000
+Oct 27, 2017 9:27:53 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:28:16 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:28:16 PM Log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to NBC1000
+Oct 27, 2017 9:29:03 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:29:03 PM Log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to MBC1000
+Oct 27, 2017 9:31:23 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 9:34:06 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 9:45:42 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 27, 2017 9:45:42 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 27, 2017 9:45:42 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 27, 2017 9:45:42 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 9:45:42 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 9:46:05 PM Log.Log generateLogFileServer
+INFO: Account created QCC1003
+Oct 27, 2017 9:46:05 PM Log.Log generateLogFileServer
+INFO: Account created QCC1004
+Oct 27, 2017 9:46:05 PM Log.Log generateLogFileServer
+INFO: Account created QCC1005
+Oct 27, 2017 9:46:05 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 9:46:05 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 9:46:20 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:47:02 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 27, 2017 9:47:02 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:47:44 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:47:44 PM Log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to BCC1000
+Oct 27, 2017 9:47:55 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:48:48 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 27, 2017 9:48:48 PM Log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to MBC1000
+Oct 27, 2017 9:52:22 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 27, 2017 9:52:22 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 27, 2017 9:52:22 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 27, 2017 9:52:22 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 27, 2017 9:52:23 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 27, 2017 9:52:59 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 29, 2017 3:15:41 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 29, 2017 3:15:41 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 29, 2017 3:15:41 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 29, 2017 3:15:41 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 29, 2017 3:16:04 PM Log.Log generateLogFileServer
+INFO: Account created QCC1003
+Oct 29, 2017 3:16:04 PM Log.Log generateLogFileServer
+INFO: Account created QCC1004
+Oct 29, 2017 3:16:04 PM Log.Log generateLogFileServer
+INFO: Account created QCC1005
+Oct 29, 2017 3:16:04 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 29, 2017 3:17:06 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 29, 2017 3:17:06 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 29, 2017 3:17:06 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 29, 2017 3:17:06 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 29, 2017 3:17:06 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 29, 2017 3:17:24 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 29, 2017 3:17:24 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 29, 2017 3:18:30 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 29, 2017 3:18:30 PM Log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to BCC1000
+Oct 29, 2017 7:52:57 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 29, 2017 7:52:57 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 29, 2017 7:52:57 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 29, 2017 7:52:57 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 29, 2017 7:52:57 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 29, 2017 8:55:01 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Oct 29, 2017 8:55:01 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Oct 29, 2017 8:55:01 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Oct 29, 2017 8:55:01 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Oct 29, 2017 8:55:01 PM Log.Log generateLogFileServer
+INFO: Get account count
+Oct 29, 2017 8:55:23 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Oct 29, 2017 8:55:23 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 29, 2017 8:55:37 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Oct 29, 2017 8:55:37 PM Log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to BCC1000
+Nov 01, 2017 2:12:27 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 01, 2017 2:12:38 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 01, 2017 2:17:53 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 01, 2017 2:17:53 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 01, 2017 2:17:53 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 01, 2017 2:17:53 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 01, 2017 2:17:53 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 01, 2017 2:17:58 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 01, 2017 2:18:21 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 01, 2017 2:21:03 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 01, 2017 2:58:49 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 01, 2017 2:58:49 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 01, 2017 2:58:49 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 01, 2017 2:58:49 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 01, 2017 2:58:49 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 01, 2017 3:25:56 PM Log.Log generateLogFileServer
+INFO: Deposit failed QCC1001
+Nov 01, 2017 3:27:16 PM Log.Log generateLogFileServer
+INFO: Deposit failed QCC1001
+Nov 02, 2017 12:57:05 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 02, 2017 12:57:06 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 02, 2017 12:57:06 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 02, 2017 12:57:06 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 12:57:06 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 12:58:39 PM Log.Log generateLogFileServer
+INFO: Account created QCC1003
+Nov 02, 2017 12:58:39 PM Log.Log generateLogFileServer
+INFO: Account created QCC1004
+Nov 02, 2017 12:58:39 PM Log.Log generateLogFileServer
+INFO: Account created QCC1005
+Nov 02, 2017 12:58:39 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 12:58:39 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 12:59:40 PM Log.Log generateLogFileServer
+INFO: Account created QCC1006
+Nov 02, 2017 12:59:40 PM Log.Log generateLogFileServer
+INFO: Account created QCC1007
+Nov 02, 2017 12:59:40 PM Log.Log generateLogFileServer
+INFO: Account created QCC1008
+Nov 02, 2017 12:59:40 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:00:19 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 02, 2017 1:00:19 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 02, 2017 1:00:19 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 02, 2017 1:00:19 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:00:19 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 1:05:59 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 02, 2017 1:05:59 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 02, 2017 1:05:59 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 02, 2017 1:05:59 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:06:00 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 1:07:15 PM Log.Log generateLogFileServer
+INFO: Account created QCC1003
+Nov 02, 2017 1:07:15 PM Log.Log generateLogFileServer
+INFO: Account created QCC1004
+Nov 02, 2017 1:07:15 PM Log.Log generateLogFileServer
+INFO: Account created QCC1005
+Nov 02, 2017 1:07:15 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:07:41 PM Log.Log generateLogFileServer
+INFO: Account created QCC1006
+Nov 02, 2017 1:07:41 PM Log.Log generateLogFileServer
+INFO: Account created QCC1007
+Nov 02, 2017 1:07:41 PM Log.Log generateLogFileServer
+INFO: Account created QCC1008
+Nov 02, 2017 1:07:41 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:08:09 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 02, 2017 1:08:10 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 02, 2017 1:08:10 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 02, 2017 1:08:10 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:08:10 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 1:08:36 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Nov 02, 2017 1:08:36 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Nov 02, 2017 1:08:50 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1000
+Nov 02, 2017 1:09:54 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 02, 2017 1:09:54 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 02, 2017 1:09:54 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 02, 2017 1:09:54 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:09:54 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 1:12:20 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 02, 2017 1:12:20 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 02, 2017 1:12:20 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 02, 2017 1:12:20 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:12:20 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 1:14:53 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 02, 2017 1:14:53 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 02, 2017 1:14:53 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 02, 2017 1:14:53 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:14:53 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 1:21:45 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 02, 2017 1:21:45 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 02, 2017 1:21:45 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 02, 2017 1:21:45 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:21:45 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 1:23:31 PM Log.Log generateLogFileServer
+INFO: Account created QCC1003
+Nov 02, 2017 1:23:31 PM Log.Log generateLogFileServer
+INFO: Account created QCC1004
+Nov 02, 2017 1:23:31 PM Log.Log generateLogFileServer
+INFO: Account created QCC1005
+Nov 02, 2017 1:23:31 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:24:44 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 02, 2017 1:24:44 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 02, 2017 1:24:44 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 02, 2017 1:24:44 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 1:24:44 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 1:25:14 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1000
+Nov 02, 2017 1:40:31 PM Log.Log generateLogFileServer
+INFO: Deposit failed QCC1000
+Nov 02, 2017 1:42:34 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 02, 2017 1:42:34 PM Log.Log generateLogFileServer
+INFO: Deposit failed QCC1000
+Nov 02, 2017 2:20:17 PM Log.Log generateLogFileServer
+INFO: Account created QCC1000
+Nov 02, 2017 2:20:17 PM Log.Log generateLogFileServer
+INFO: Account created QCC1001
+Nov 02, 2017 2:20:17 PM Log.Log generateLogFileServer
+INFO: Account created QCC1002
+Nov 02, 2017 2:20:17 PM Log.Log generateLogFileServer
+INFO: Field name change for QCC1000
+Nov 02, 2017 2:20:18 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 2:20:37 PM Log.Log generateLogFileServer
+INFO: Account created QCC1003
+Nov 02, 2017 2:20:58 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 02, 2017 2:21:32 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1003
+Nov 02, 2017 2:21:50 PM Log.Log generateLogFileServer
+INFO: Deposit made for QCC1003
+Nov 02, 2017 2:21:50 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1003
+Nov 02, 2017 2:22:11 PM Log.Log generateLogFileServer
+INFO: Get balance for QCC1003
+Nov 02, 2017 2:22:29 PM Log.Log generateLogFileServer
+INFO: Get account count
+Nov 14, 2017 12:25:04 PM log.Log generateLogFileServer
+INFO: Account created BCC1000
+Nov 14, 2017 12:25:04 PM log.Log generateLogFileServer
+INFO: Account created BCC1001
+Nov 14, 2017 12:25:04 PM log.Log generateLogFileServer
+INFO: Account created BCC1002
+Nov 14, 2017 12:25:04 PM log.Log generateLogFileServer
+INFO: Account created BCC1003
+Nov 14, 2017 12:58:32 PM log.Log generateLogFileServer
+INFO: Account created BCC1000
+Nov 14, 2017 12:58:32 PM log.Log generateLogFileServer
+INFO: Account created BCC1001
+Nov 14, 2017 12:58:32 PM log.Log generateLogFileServer
+INFO: Account created BCC1002
+Nov 14, 2017 12:58:32 PM log.Log generateLogFileServer
+INFO: Account created BCC1003
+Nov 14, 2017 1:21:59 PM log.Log generateLogFileServer
+INFO: Account created BCC1000
+Nov 14, 2017 1:21:59 PM log.Log generateLogFileServer
+INFO: Account created BCC1001
+Nov 14, 2017 1:21:59 PM log.Log generateLogFileServer
+INFO: Account created BCC1002
+Nov 14, 2017 1:21:59 PM log.Log generateLogFileServer
+INFO: Account created BCC1003
+Nov 14, 2017 1:24:04 PM log.Log generateLogFileServer
+INFO: Account created BCC1000
+Nov 14, 2017 1:24:04 PM log.Log generateLogFileServer
+INFO: Account created BCC1001
+Nov 14, 2017 1:24:04 PM log.Log generateLogFileServer
+INFO: Account created BCC1002
+Nov 14, 2017 1:24:04 PM log.Log generateLogFileServer
+INFO: Account created BCC1003
+Nov 14, 2017 1:28:28 PM log.Log generateLogFileServer
+INFO: Account created BCC1000
+Nov 14, 2017 1:28:28 PM log.Log generateLogFileServer
+INFO: Account created BCC1001
+Nov 14, 2017 1:28:28 PM log.Log generateLogFileServer
+INFO: Account created BCC1002
+Nov 14, 2017 1:28:28 PM log.Log generateLogFileServer
+INFO: Account created BCC1003
+Nov 14, 2017 1:30:03 PM log.Log generateLogFileServer
+INFO: Account created BCC1000
+Nov 14, 2017 1:30:03 PM log.Log generateLogFileServer
+INFO: Account created BCC1001
+Nov 14, 2017 1:30:03 PM log.Log generateLogFileServer
+INFO: Account created BCC1002
+Nov 14, 2017 1:30:03 PM log.Log generateLogFileServer
+INFO: Account created BCC1003
+Nov 14, 2017 1:32:08 PM log.Log generateLogFileServer
+INFO: Get account count
+Nov 14, 2017 1:33:27 PM log.Log generateLogFileServer
+INFO: Account created BCC1000
+Nov 14, 2017 1:33:27 PM log.Log generateLogFileServer
+INFO: Account created BCC1001
+Nov 14, 2017 1:33:27 PM log.Log generateLogFileServer
+INFO: Account created BCC1002
+Nov 14, 2017 1:33:27 PM log.Log generateLogFileServer
+INFO: Account created BCC1003
+Nov 14, 2017 1:34:03 PM log.Log generateLogFileServer
+INFO: Account created BCC1004
+Nov 14, 2017 1:34:03 PM log.Log generateLogFileServer
+INFO: Account created BCC1005
+Nov 14, 2017 1:34:03 PM log.Log generateLogFileServer
+INFO: Account created BCC1006
+Nov 14, 2017 1:34:03 PM log.Log generateLogFileServer
+INFO: Account created BCC1007
+Nov 14, 2017 1:36:11 PM log.Log generateLogFileServer
+INFO: Get account count
+Nov 14, 2017 1:36:40 PM log.Log generateLogFileServer
+INFO: Account created BCC1000
+Nov 14, 2017 1:36:40 PM log.Log generateLogFileServer
+INFO: Account created BCC1001
+Nov 14, 2017 1:36:40 PM log.Log generateLogFileServer
+INFO: Account created BCC1002
+Nov 14, 2017 1:36:41 PM log.Log generateLogFileServer
+INFO: Account created BCC1003
+Nov 14, 2017 1:36:53 PM log.Log generateLogFileServer
+INFO: Get account count
+Nov 14, 2017 1:55:27 PM log.Log generateLogFileServer
+INFO: Account created BCC1000
+Nov 14, 2017 1:55:27 PM log.Log generateLogFileServer
+INFO: Account created BCC1001
+Nov 14, 2017 1:55:27 PM log.Log generateLogFileServer
+INFO: Account created BCC1002
+Nov 14, 2017 1:55:27 PM log.Log generateLogFileServer
+INFO: Account created BCC1003
+Nov 14, 2017 1:55:28 PM log.Log generateLogFileServer
+INFO: Get account count
+Nov 14, 2017 2:03:13 PM log.Log generateLogFileServer
+INFO: Account created BCC1000
+Nov 14, 2017 2:03:13 PM log.Log generateLogFileServer
+INFO: Account created BCC1001
+Nov 14, 2017 2:03:13 PM log.Log generateLogFileServer
+INFO: Account created BCC1002
+Nov 14, 2017 2:03:13 PM log.Log generateLogFileServer
+INFO: Account created BCC1003
+Nov 14, 2017 2:03:13 PM log.Log generateLogFileServer
+INFO: Get account count
+Nov 26, 2017 8:04:47 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:04:47 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:06:24 PM log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:06:24 PM log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:08:54 PM log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1001to QCC1000 Failed...not enough money!
+Nov 26, 2017 8:08:54 PM log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1001to QCC1000 Failed...not enough money!
+Nov 26, 2017 8:09:14 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:09:14 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:09:52 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1001to QCC1000 Failed...not enough money!
+Nov 26, 2017 8:11:46 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 Failed...not enough money!
+Nov 26, 2017 8:11:46 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 Failed...not enough money!
+Nov 26, 2017 8:19:21 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 Failed...not enough money!
+Nov 26, 2017 8:19:21 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 Failed...not enough money!
+Nov 26, 2017 8:19:52 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 Failed...not enough money!
+Nov 26, 2017 8:19:52 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 Failed...not enough money!
+Nov 26, 2017 8:23:21 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:23:21 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:23:40 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:23:40 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:24:38 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 Failed...not enough money!
+Nov 26, 2017 8:24:38 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 Failed...not enough money!
+Nov 26, 2017 8:30:44 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:30:44 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:31:35 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 Failed...not enough money!
+Nov 26, 2017 8:37:46 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:37:46 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:38:06 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1000 Failed...not enough money!
+Nov 26, 2017 8:48:17 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:48:17 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:48:31 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 Failed...not enough money!
+Nov 26, 2017 8:52:45 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Nov 26, 2017 8:52:45 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 12:41:23 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 12:46:29 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 12:54:16 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 2:07:21 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 2:11:24 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 3:09:26 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 3:09:26 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 3:11:55 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 3:11:55 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 3:36:38 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 3:36:38 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 3:39:54 PM log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 3:39:54 PM log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 3:47:38 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 3:47:38 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 7:53:32 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 7:53:32 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 7:55:59 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 Failed...not enough money!
+Dec 02, 2017 7:56:32 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 7:56:32 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:07:49 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:07:49 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:09:37 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:09:37 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:17:05 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:17:05 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:19:10 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:19:10 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:20:50 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:20:50 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:21:36 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:21:36 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:23:07 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:23:07 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:24:05 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:24:05 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:26:57 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:26:57 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:45:08 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:45:08 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:47:24 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:47:24 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:50:36 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:50:36 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:56:51 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 8:56:51 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:03:48 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:06:04 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:06:04 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:08:04 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:09:27 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:09:27 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:39:00 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:39:00 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:40:52 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:40:52 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:43:55 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 9:43:55 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:00:52 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:00:52 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:05:26 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:05:26 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:13:15 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:13:15 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:14:23 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:14:23 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:17:16 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:17:16 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:26:12 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:26:12 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:30:21 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:30:21 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:38:00 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:38:00 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:39:14 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:39:14 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:43:41 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:43:41 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:46:11 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:46:11 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:48:04 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:48:04 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:50:01 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 10:50:01 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 11:08:50 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 11:08:50 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 11:15:09 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 11:15:09 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 11:17:31 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 11:17:31 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 11:20:31 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 02, 2017 11:20:31 PM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:17:39 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:17:39 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:18:41 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:18:41 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:29:25 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:29:25 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:42:06 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:42:06 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:43:24 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:43:24 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:45:59 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:45:59 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:48:13 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:48:13 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:48:58 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:48:58 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:54:17 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:54:17 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:58:02 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 12:58:02 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 1:01:54 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 1:01:54 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 1:20:44 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 1:20:44 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 1:23:48 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 1:23:48 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 1:25:42 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 1:25:42 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 10:25:39 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 10:25:39 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 10:31:34 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 10:31:34 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 10:41:31 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 10:41:31 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 10:46:40 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 10:51:17 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 10:51:18 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 10:55:57 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 10:55:57 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 11:02:32 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 11:07:07 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 11:07:07 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 11:16:14 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 11:16:14 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 11:22:56 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 11:22:56 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 11:25:50 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 03, 2017 11:25:50 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 12:42:05 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 12:42:05 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 12:58:06 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:01:09 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:01:30 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:01:30 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:03:52 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:34:30 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:34:31 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:39:31 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:39:31 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:45:04 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:45:04 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:46:09 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:46:09 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:46:15 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:46:15 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:48:45 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:50:19 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:50:19 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:52:55 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:52:55 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:56:17 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 1:56:17 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:01:49 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:01:49 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:04:51 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:04:51 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:08:50 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:11:13 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:11:13 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:12:03 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:12:03 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:12:33 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:16:25 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:16:25 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:18:44 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:18:44 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:25:06 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:25:06 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:27:54 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:27:54 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:31:45 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:31:45 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:34:36 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:34:57 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:34:57 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:37:41 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:37:41 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:45:01 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:45:01 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:47:04 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:47:04 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:48:32 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:48:32 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:55:04 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:55:04 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:58:30 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 2:58:30 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 8:58:02 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 8:58:02 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 8:59:23 AM log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1001to QCC1000 success
+Dec 05, 2017 8:59:23 AM log.Log generateLogFileServer
+INFO: Manager QCM1000called transfer money for QCC1001to QCC1000 success
+Dec 05, 2017 9:07:40 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 9:07:40 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 9:21:19 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success
+Dec 05, 2017 9:21:19 AM log.Log generateLogFileServer
+INFO: Manager autocalled transfer money for QCC1000to QCC1001 success

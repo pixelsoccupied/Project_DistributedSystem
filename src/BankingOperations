@@ -1,0 +1,33 @@
+/*
+all rights reserved pixelsoccupied
+*/
+
+
+
+module bankingOperationsApp{
+
+  typedef sequence<string> custCount;
+
+  interface BankingOperations
+  {
+
+
+    boolean createAccountRecord(in string firstName,in string lastName,in string address,in string phone,in string branch);
+    boolean editRecord (in string customerID,in string fieldName,in string newValue);
+    custCount getAccountCount();
+
+    //new method
+    boolean transferFund (in string managerID,in double amount,in string sourceCustomerID,in string destinationCustomerID);
+
+
+    //Customer specific methods
+
+    boolean deposit (in string customerID,in double amt);
+    boolean withdraw (in string customerID,in double amt);
+    double getBalance (in string customerID);
+
+    //overload this guy for the customer #newmethod...overloading not supported in IDL
+    //boolean transferFund (in string sourceCustomerID, in double amount, in string destinationCustomerID)
+
+    };
+};

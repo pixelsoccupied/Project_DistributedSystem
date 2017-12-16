@@ -1,0 +1,62 @@
+Oct 07, 2017 7:33:53 PM Logs.Log generateLogFileClient
+INFO: Checked balance 
+Oct 07, 2017 7:34:17 PM Logs.Log generateLogFileClient
+INFO: Deposit 
+Oct 07, 2017 7:34:17 PM Logs.Log generateLogFileClient
+INFO: Deposit failed 
+Oct 08, 2017 11:48:43 AM Logs.Log generateLogFileClient
+INFO: Checked balance 
+Oct 08, 2017 6:17:00 PM Logs.Log generateLogFileClient
+INFO: Checked balance 
+Oct 08, 2017 11:22:26 PM Logs.Log generateLogFileClient
+INFO: Checked balance 
+Oct 10, 2017 4:03:41 PM Logs.Log generateLogFileClient
+INFO: Checked balance 
+Oct 27, 2017 3:23:41 PM Log.Log generateLogFileClient
+INFO: Checked balance 
+Oct 27, 2017 3:23:55 PM Log.Log generateLogFileClient
+INFO: Withdraw 
+Oct 27, 2017 3:23:55 PM Log.Log generateLogFileClient
+INFO: Withdraw failed  
+Oct 27, 2017 3:24:35 PM Log.Log generateLogFileClient
+INFO: Deposit 
+Oct 27, 2017 3:26:56 PM Log.Log generateLogFileClient
+INFO: Withdraw 
+Oct 27, 2017 3:26:56 PM Log.Log generateLogFileClient
+INFO: Withdraw failed  
+Oct 27, 2017 3:30:04 PM Log.Log generateLogFileClient
+INFO: Checked balance 
+Oct 27, 2017 3:30:44 PM Log.Log generateLogFileClient
+INFO: Not enough $$ 
+Oct 27, 2017 3:31:56 PM Log.Log generateLogFileClient
+INFO: Deposit 
+Oct 27, 2017 4:27:36 PM Log.Log generateLogFileClient
+INFO: Checked balance 
+Oct 27, 2017 7:39:35 PM Log.Log generateLogFileClient
+INFO: Deposit 
+Oct 27, 2017 7:41:52 PM Log.Log generateLogFileClient
+INFO: Checked balance 
+Oct 27, 2017 7:43:20 PM Log.Log generateLogFileClient
+INFO: Deposit 
+Oct 27, 2017 8:32:18 PM Log.Log generateLogFileClient
+INFO: Checked balance 
+Oct 27, 2017 8:32:50 PM Log.Log generateLogFileClient
+INFO: Deposit 
+Oct 27, 2017 8:33:29 PM Log.Log generateLogFileClient
+INFO: Tranfer balance to BCC1000
+Oct 27, 2017 8:35:29 PM Log.Log generateLogFileClient
+INFO: Tranfer balance to MBC1000 failed
+Oct 27, 2017 8:36:13 PM Log.Log generateLogFileClient
+INFO: Checked balance 
+Oct 27, 2017 8:36:21 PM Log.Log generateLogFileClient
+INFO: Tranfer balance to MBC1000 failed
+Oct 27, 2017 8:36:36 PM Log.Log generateLogFileClient
+INFO: Tranfer balance to NBC1000 failed
+Oct 27, 2017 8:47:04 PM Log.Log generateLogFileClient
+INFO: Deposit 
+Oct 27, 2017 8:47:09 PM Log.Log generateLogFileClient
+INFO: Checked balance 
+Oct 27, 2017 8:47:24 PM Log.Log generateLogFileClient
+INFO: Tranfer balance to BCC1000
+Oct 27, 2017 8:47:42 PM Log.Log generateLogFileClient
+INFO: Tranfer balance to MBC1000 failed

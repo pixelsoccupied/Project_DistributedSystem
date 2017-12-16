@@ -1,0 +1,14 @@
+Oct 10, 2017 5:58:57 PM Logs.Log generateLogFileClient
+INFO: Account created 
+Oct 10, 2017 5:59:01 PM Logs.Log generateLogFileClient
+INFO: Get account count 
+Oct 27, 2017 9:33:32 PM Log.Log generateLogFileClient
+INFO: Balance check 
+Oct 27, 2017 9:34:06 PM Log.Log generateLogFileClient
+INFO: Transfer balance to QCC1000 from MBC1000
+Oct 27, 2017 9:34:18 PM Log.Log generateLogFileClient
+INFO: Balance check 
+Oct 27, 2017 9:52:40 PM Log.Log generateLogFileClient
+INFO: Deposit successful 
+Oct 27, 2017 9:52:59 PM Log.Log generateLogFileClient
+INFO: Transfer balance to QCC1000 from MBC1000
